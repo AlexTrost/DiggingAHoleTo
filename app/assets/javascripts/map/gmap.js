@@ -1,5 +1,5 @@
 $(window).load(function() {
-  loadScript();
+   loadScript();
 });
 
 var map;
