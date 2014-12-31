@@ -1,0 +1,58 @@
+#map-container {
+   height: 60%;
+   border-radius: 16px 16px;
+   border-color: #fff;
+   border-style: solid;
+   box-shadow: 2px 2px 10px #B1B1B1;
+   margin-top: 25px;
+   border-width: 7px;
+ }
+ #map-canvas {
+   height: 596px;
+   width: 100%;
+ }
+
+ body {
+ 	margin: 0, auto;
+ 	text-align: center;
+ 	margin-top: 3em;
+ 	background: #292929;
+ }
+
+ h1 { 
+ 	color: #c9d0d4; 
+ 	font-family: 'Helvetica Neue', sans-serif; 
+ 	font-size: 46px; 
+ 	font-weight: 100; 
+ 	line-height: 50px; 
+ 	letter-spacing: 1px; 
+ 	padding: 0 0 40px; 
+ 	width: 30%;
+ 	margin: 0 auto;
+ 	border-bottom: 1px #c64119 solid;
+ }
+
+ p { 
+ 	font-family: 'Verdana', sans-serif; 
+ 	font-size: 16px; 
+ 	line-height: 26px; 
+ 	text-indent: 30px; 
+ 	margin: 0; }
+
+#des {
+	color: #c9d0d4; 
+}
+
+#hint {
+ 	color: #c64119; 
+}
+
+a { 
+	color: #c64119; 
+	border-bottom: 1px solid #c64119; 
+	text-decoration: none; }
+
+a:hover { 
+	color: #993213; 
+	border-bottom: 1px solid #993213; 
+}
